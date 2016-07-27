@@ -1,2 +1,2 @@
 Demo for testing dynamic animation
-<img src="demo_rotation.gif" width="350">
+<img src="toyDemo.gif" width="350">
